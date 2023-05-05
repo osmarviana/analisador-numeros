@@ -38,7 +38,7 @@ O projeto foi criado para praticar alguns conceitos básicos de JavaScript como 
 
 ## Links
 
-[Analisador de números] https://osmarviana.github.io/analisador-numeros
+https://osmarviana.github.io/analisador-numeros
 
 </br>
 
